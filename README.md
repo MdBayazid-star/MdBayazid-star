@@ -1,8 +1,15 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 
 ![Designer and Developer](https://i.ibb.co/6yYC4rp/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif)
 
 
 ## Hey, ouuan here! :wave:
+
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
