@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://i.ibb.co/M6zVRwr/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966-duplicate.gif)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](https://github.com/MdBayazid-star/MdBayazid-star/blob/main/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966%20(duplicate).gif)](https://braydoncoyer.dev)
 
 ### Hi there 👋
 
