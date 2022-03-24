@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)](https://braydoncoyer.dev)
+
 ### Hi there 👋
 
 <!--
