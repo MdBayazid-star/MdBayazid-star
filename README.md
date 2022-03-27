@@ -7,6 +7,8 @@
 
 ![Designer and Developer](https://i.ibb.co/6yYC4rp/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif)
 
+---
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto)](https://github.com/RHsanto/github-profile-trophy)
 
 ## Hey, ouuan here! :wave:
 
@@ -79,6 +81,16 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+
+
+
+<!--  <p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&locale=en" alt="codebucks27" /></p> -->
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHsanto)  
+
+![Profile views](https://gpvc.arturio.dev/RHsanto)  
 
 <!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
